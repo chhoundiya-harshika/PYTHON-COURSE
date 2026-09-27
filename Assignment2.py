@@ -4,3 +4,4 @@ Each_will_pay = total/friends
 print("Data type of :", type(friends))
 print("Data type of :", type(total))
 print("Data type of :", type(Each_will_pay))
+print(Each_will_pay)
